@@ -23,12 +23,6 @@
       "day": "October 24th at 7:00pm",
       "reminder": true,
       "id": 4
-    },
-    {
-      "text": "Feed Dogs",
-      "day": "October 24th at 7:30pm",
-      "reminder": false,
-      "id": 5
     }
   ]
 }
